@@ -1,0 +1,1 @@
+//configurations and rules of the game
